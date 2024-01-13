@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\halaltogo\resources\views/home.blade.php ENDPATH**/ ?>
